@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678527864054",
+    "project_id": "messenger-8fddc",
+    "storage_bucket": "messenger-8fddc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678527864054:android:31b30ef96f54481b21b0d7",
+        "android_client_info": {
+          "package_name": "com.nc.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlAKvYFhTCq_mCzlnjSYUq1SXS8gr-E_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
